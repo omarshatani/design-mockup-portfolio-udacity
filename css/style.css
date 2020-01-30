@@ -76,7 +76,7 @@ h2 {
   position: fixed;
   top: 0;
   left: 0;
-  background-image: url('/src/hero.jpg');
+  background-image: url('../src/hero.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -180,7 +180,7 @@ input[type=submit] {
 
 .big {
   width: 80%;
-  margin-left:  20px;
+  margin-left: 20px;
 }
 
 .medium {
@@ -208,7 +208,7 @@ input[type=submit] {
 }
 
 .my-skills {
-  background-image: url('/src/city.jpg');
+  background-image: url('../src/city.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
